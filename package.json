@@ -1,0 +1,20 @@
+{
+  "name": "001",
+  "version": "1.0.0",
+  "description": "aplicacion ejemplo clase",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "applicacion",
+    "ejemplos",
+    "clases"
+  ],
+  "author": "Roberto Friber",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "yargs": "^16.2.0"
+  }
+}
